@@ -1,0 +1,16 @@
+
+body{
+    background-image: url(/desafio/img/fundo.jpg);
+    
+    background-size: 90%;
+   
+}
+#sonico{
+    width: 464px;
+    position: fixed;
+    top: 370px;
+    
+}
+
+
+ 
